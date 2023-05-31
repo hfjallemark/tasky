@@ -1,0 +1,1 @@
+gleam: watchexec -e gleam -r --stop-signal SIGKILL gleam run
